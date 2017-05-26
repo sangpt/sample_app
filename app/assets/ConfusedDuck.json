@@ -1,0 +1,56 @@
+{
+  "data_name": "Confused Duck",
+  "data_version": "1.0",
+  "emoticons": [
+    {
+      "key": "(thatKoTheTinNoi)",
+      "regex": "\\(thatKoTheTinNoi\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/78cf0abc.jpg"
+    },
+    {
+      "key": "(thatLaViDieu)",
+      "regex": "\\(thatLaViDieu\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/6d82cde1.jpg"
+    },
+    {
+      "key": "(uCantBoiRoiMe)",
+      "regex": "\\(uCantBoiRoiMe\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/0b7a7430.jpg"
+    },
+    {
+      "key": "(bungLua)",
+      "regex": "\\(bungLua\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/2b65e442.jpg"
+    },
+    {
+      "key": "(coDau8TuoiBoiRoi)",
+      "regex": "\\(coDau8TuoiBoiRoi\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/38254e1e.jpg"
+    },
+    {
+      "key": "(deadpool)",
+      "regex": "\\(deadpool\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/a5858b28.png"
+    },
+    {
+      "key": "(gapDoiCanxi)",
+      "regex": "\\(gapDoiCanxi\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/63388587.jpg"
+    },
+    {
+      "key": "(ironduck)",
+      "regex": "\\(ironduck\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/79bc14e0.png"
+    },
+    {
+      "key": "(???duck)",
+      "regex": "\\(???duck\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/f7bb15f5.jpg"
+    },
+    {
+      "key": "(boiRoi)",
+      "regex": "\\(boiRoi\\)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/68a84f0d.png"
+    }
+  ]
+}
